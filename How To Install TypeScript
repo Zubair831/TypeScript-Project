@@ -1,0 +1,11 @@
+ First Download Current Recommended Version Of Node.js
+Insatll Node.js
+How To check Node Installection Version.
+              Go To Search bar of Windows and type command prompt and write a (Node -v) to installection Version
+Check Node Package Manger Version(npm)=npm -v
+How to install Golobelly typescript
+======> npm install -g typescript
+after running this command would take some time to install typescript.
+
+
+  
