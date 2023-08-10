@@ -1,0 +1,26 @@
+// let temp:number=39;
+// if(temp>0 && temp<10){
+//     console.log(` its heavy winter and wear the warm cloth`);
+// }
+// else if (temp>11 && temp<20){
+//     console.log(` its a bit chilly weather, wear a light jacket`);
+// }
+// else if (temp>21 && temp<30){
+//     console.log(` its a pleasent weather, wear a light cloth`);
+// }
+// else{
+//     console.log(` its a warm weather, wear short and t.shirt`);
+// }
+// let a:number=60
+// if(a%3==0 && a%5==0){
+//     console.log(`${a} divisible by both`)
+// }
+// else if(a%3==0){
+//     console.log(` ${a} is divisible by 3 `)
+// }
+// else if(a%5==0){
+//     console.log( `${a} is divisible by 5 `)
+// }
+else{
+//     console.log(` ${a} is not divisibl by 3 and 5 `)
+// }
